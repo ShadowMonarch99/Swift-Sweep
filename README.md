@@ -1,2 +1,2 @@
 # Swift-Sweep
-Practice problems in Swift Programming Language
+This repository contains practice problems that I encounter in my Swift Programming Language journey.
